@@ -9,5 +9,5 @@ function draw(){
     image(cam,0,0,424,300);
 }
 function click(){
-    save("img.jpeg");
+    save("filtered_img","jpeg");
 }
